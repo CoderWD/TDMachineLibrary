@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name             = "TDMachineLibrary"
-s.version          = "1.0.1"
+s.version          = "1.0.2"
 s.summary          = "A marquee view used on iOS."
 s.description      = <<-DESC
 It is a marquee view used on iOS, which implement by Objective-C.

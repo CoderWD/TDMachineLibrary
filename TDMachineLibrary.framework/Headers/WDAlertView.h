@@ -10,8 +10,8 @@
 
 #define ALERT [WDAlertView shareAlert]
 
-@interface WDAlertView : NSObject<MBProgressHUDDelegate>{
-    MBProgressHUD *HUD;
+@interface WDAlertView : NSObject{
+    
 }
 + (WDAlertView *)shareAlert;
 /**
