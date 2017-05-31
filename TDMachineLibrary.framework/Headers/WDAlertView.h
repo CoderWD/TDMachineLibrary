@@ -7,7 +7,6 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "MBProgressHUD.h"
 
 #define ALERT [WDAlertView shareAlert]
 
