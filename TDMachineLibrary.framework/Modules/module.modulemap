@@ -1,0 +1,6 @@
+framework module TDMachineLibrary {
+  umbrella header "TDMachineLibrary.h"
+
+  export *
+  module * { export * }
+}
