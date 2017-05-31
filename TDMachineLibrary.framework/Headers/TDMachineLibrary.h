@@ -50,7 +50,6 @@ FOUNDATION_EXPORT const unsigned char TDMachineLibraryVersionString[];
 #import "ICPinyinGroup.h"
 #import "WDAlertView.h"
 #import "WDCustomAlertView.h"
-#import "WDLoadingView.h"
 #import "XLPhotoBrowser.h"
 #import "TDMainTheme.h"
 #import "TDService.h"
