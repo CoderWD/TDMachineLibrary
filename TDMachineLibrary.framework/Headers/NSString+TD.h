@@ -18,5 +18,5 @@
 -(NSURL*)td_imageUrl_w:(CGFloat)w;
 -(NSURL*)td_imageUrl_h:(CGFloat)h;
 -(NSURL*)td_imageUrl_w:(CGFloat)w h:(CGFloat)h;
--(NSURL *)td_imageUrl_wAndh;
+
 @end
