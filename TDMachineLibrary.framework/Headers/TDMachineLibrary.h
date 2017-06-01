@@ -54,3 +54,4 @@ FOUNDATION_EXPORT const unsigned char TDMachineLibraryVersionString[];
 #import "TDMainTheme.h"
 #import "TDService.h"
 #import "TDUtils.h"
+#import "TDConfiguration.h"
