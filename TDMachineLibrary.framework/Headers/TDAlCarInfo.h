@@ -12,8 +12,10 @@
 #import "TDCarType.h"
 
 @interface TDAlCarInfo : NSObject
-@property(nonatomic,strong) NSMutableArray<TDCarModel*> *carModelArray;
-@property(nonatomic,strong) NSMutableArray<TDCarBrand*> *carBrandArray;
 @property(nonatomic,strong) NSMutableArray<TDCarType*> *carTypeArray;
+@property(nonatomic,strong) NSMutableArray<TDCarBrand*> *carBrandArray;
+@property(nonatomic,strong) NSMutableArray<TDCarModel*> *carModelArray;
+
+
 
 @end
